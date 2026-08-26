@@ -1,1 +1,7 @@
 # TESIS
+
+¿Qué analicé/modelé?: El impacto y la sensibilidad del desarrollo de la Bolsa de Valores de Lima (medido por capitalización) frente a las variaciones en los portafolios de inversión de los cuatro principales inversores institucionales (AFPs) y factores macroeconómicos externos.  
+¿Sobre qué magnitud?: Un panel de datos longitudinal compuesto por 476 observaciones a lo largo de 120 meses (2015-2024), evaluando el comportamiento de las cuatro AFPs peruanas frente a indicadores de mercado como IGBVL, TRPM, inflación y retiros previsionales.  
+¿Qué metodología utilicé?: Modelado econométrico de Datos de Panel con Efectos Fijos (estimación por Mínimos Cuadrados Ordinarios), aplicando correcciones avanzadas de Errores Estándar Robustos y modelos autorregresivos (AR1) para neutralizar heterocedasticidad y autocorrelación.  
+¿Qué encontré?: Una dependencia estadística significativa entre el volumen de la cartera institucional y el crecimiento bursátil, respaldada por un poder predictivo del modelo superior al 89% (R²), evidenciando además la sensibilidad del mercado ante choques macroeconómicos como la inflación.  
+¿Qué decisión/recomendación permitió?: Sustentar recomendaciones técnicas dirigidas a entidades reguladoras orientadas a flexibilizar los límites normativos de los portafolios, con el fin de mitigar el riesgo de iliquidez y optimizar la profundidad del mercado local.  
